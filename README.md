@@ -10,4 +10,4 @@ Utilizei o Postman, para alcançar os erros solicitados.
 
 ### ✅Terceiro: 
 
-Utilizei o Jmete, para fazer com que 100 usuários acessem a plataforma. 
+Utilizei o Jmeter, para fazer com que 100 usuários acessem a plataforma. 
